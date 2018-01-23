@@ -1,0 +1,25 @@
+{
+  "name": "com.sahakarservices.fingerprint",
+  "version": "0.0.1",
+  "description": "Plugin for getting fingerprint from scanner",
+  "cordova": {
+    "id": "com.sahakarservices.fingerprint",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tushar-Kanvinde/sahakarfingerprint.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Tushar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tushar-Kanvinde/sahakarfingerprint/issues"
+  },
+  "homepage": "https://github.com/Tushar-Kanvinde/sahakarfingerprint#readme"
+}
